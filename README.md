@@ -12,7 +12,7 @@
 
 **CPU Advisor** is an end-to-end machine learning platform that predicts CPU performance rankings based on technical specifications. It combines:
 
--  **Machine Learning Model** (XGBoost) with R² ~ 0.89
+-  **Machine Learning Model** (XGBoost) with R² ~ 0.95
 -  **Interactive Web Application** (Gradio) hosted on Hugging Face Spaces
 -  **Power BI Dashboard** for interactive data visualization
 - **Automated Data Pipeline** for cleaning and feature engineering
