@@ -271,11 +271,11 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 ##  Author
 
-**Your Name**
+**Reem Algethami**
 
-- GitHub: [github.com/yourusername](https://github.com/yourusername)
-- LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
-- Email: your.email@example.com
+- GitHub: [GitHub](https://github.com/EngReem85)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/www.linkedin.com/in/reem-algethami-245800316)
+- Email: reem525979@gmail.com
 
 ---
 
