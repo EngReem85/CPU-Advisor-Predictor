@@ -298,11 +298,9 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 ## 📊 Sample Dashboard Screenshot
 
-*(Add your Power BI dashboard image here)*
 
-```markdown
-![Power BI Dashboard](./images/powerbi_dashboard.png)
-```
+![Power BI Dashboard](./powerbi_dashboard.png)
+
 
 ---
 
