@@ -299,7 +299,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 ## 📊 Sample Dashboard Screenshot
 
 
-![Power BI Dashboard]([./CPU Dashboard_screenshot.png](https://github.com/EngReem85/CPU-Advisor-Predictor/CPU Dashboard.jpg))
+![Power BI Dashboard]([./CPU Dashboard_screenshot.png](https://github.com/EngReem85/CPU-Advisor-Predictor/blob/main/CPU%20Dashboard.png))
 
 
 ---
